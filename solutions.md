@@ -69,10 +69,15 @@ The puzzle pieces when correctly assembled form a QR code. If scanned with your 
 This is a list of rebus puzzles using emojis. Each one is the name of a series I've binged watched over the last year.
 
 (👶+lon)(🍔-ger)(📈-e) BabylonBerlin
+
 🎭🚗☕️ ComediansinCarsGettingCoffee
+
 (🐰-e)(🔒-ck)+ts Harlots
+
 👸🏿🍬 QueenSugar
+
 (🥦-ccoli)➕💒 Broadchurch
+
 (👺-k)(🖥-compu)𝟎 MasterofNone
 
 When filled out correctly the spell out the solution: BARQUE
